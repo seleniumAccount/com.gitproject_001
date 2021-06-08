@@ -246,3 +246,95 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: TEXT must b
 2021-06-08 05:31:45,493 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-08 05:31:45,493 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
 2021-06-08 05:31:45,493 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 05:31:45,493 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 05:49:55,991 [Worker-39: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:com.gitproject:0.0.1-SNAPSHOT @ C:\yoga\My_Projects\Git_Project\com.gitproject\pom.xml.
+2021-06-08 05:51:01,654 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 05:51:01,654 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 05:51:01,701 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 05:51:01,856 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:21:27,116 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:21:27,118 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:21:27,132 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:21:27,135 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:21:52,923 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:21:52,923 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:21:52,928 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:21:52,929 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:22:22,045 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:22:22,045 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:22:22,046 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:22:22,050 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:23:05,087 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:23:05,088 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:23:05,089 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:23:05,089 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:23:32,580 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:23:32,581 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:23:32,586 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:23:32,586 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:23:39,690 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:23:39,691 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:23:39,692 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:23:39,692 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:24:02,202 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:24:02,202 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:24:02,203 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:24:02,204 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:24:57,010 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:24:57,010 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:24:57,105 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:24:57,110 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:26:05,837 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:05,838 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:26:05,839 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:05,840 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:26:22,631 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:22,631 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:26:22,637 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:22,638 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:26:40,094 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:40,095 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:26:40,122 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:40,123 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:26:52,810 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:52,811 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:26:52,811 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:26:52,811 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:28:11,247 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:28:11,247 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:28:11,247 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:28:11,263 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:28:21,691 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:28:21,691 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:28:21,692 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:28:21,693 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:28:37,232 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:28:37,234 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:28:37,235 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:28:37,236 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:29:04,530 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:29:04,530 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:29:04,538 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:29:04,539 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:30:21,619 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:30:21,619 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:30:21,630 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:30:21,631 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:30:33,734 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:30:33,735 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:30:33,739 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:30:33,740 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:30:45,362 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:30:45,362 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:30:45,369 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:30:45,371 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:31:14,490 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:31:14,491 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:31:14,493 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:31:14,494 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:33:02,068 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:33:02,068 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
+2021-06-08 06:33:02,084 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:33:02,084 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\test\resources
+2021-06-08 06:33:24,760 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-08 06:33:24,760 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\yoga\My_Projects\Git_Project\com.gitproject\src\main\resources
