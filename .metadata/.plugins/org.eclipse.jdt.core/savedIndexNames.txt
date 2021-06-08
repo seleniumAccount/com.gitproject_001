@@ -1,7 +1,6 @@
 INDEX VERSION 1.131+C:\yoga\My_Projects\Git_Project\.metadata\.plugins\org.eclipse.jdt.core
 1425004475.index
 1609305366.index
-4272528019.index
 899842488.index
 1199930685.index
 551098058.index
